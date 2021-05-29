@@ -5,7 +5,7 @@ by taking a potion. The game creates new objects using JavaScript constructor fu
 basic code tests using the Jest framework.
 
 ## How to Install
-You must first clone this repository onto your local machine, cd into the root folder of team-machine and run `npm install`. 
+You must first clone this repository onto your local machine, cd into the root folder of jest-another-rpg and run `npm install`. 
 
 ## How to Play
 * While in the root folder run `node app.js` to start the application. You will be prompted to enter your player name. 
